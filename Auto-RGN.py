@@ -22,7 +22,7 @@ import gc
 import warnings
 temp = sys.stdout
 
-f = open('outfile/code9.log', 'w')
+f = open('outfile/code.log', 'w')
 
 sys.stdout = f
 warnings.filterwarnings("ignore")
@@ -100,7 +100,7 @@ def evaluate_testset(models):
 data_name = ['indoor', 'stf_dog','aircraft', 'ucf101', 'omniglot','caltech256-30','caltech256-60']
 num_classes = [67, 120, 100, 101, 1623,256,256]
 
-seed = 0
+seed = -1
 for seed_ind in range(10):
     seed += 1
     for data_index in [0,1,2,3,4,5,6]:
