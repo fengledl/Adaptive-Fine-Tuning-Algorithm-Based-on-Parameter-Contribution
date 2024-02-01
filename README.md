@@ -18,7 +18,7 @@ The following information was supplied regarding data availability: The public d
 
 4. Caltech 256-60–https://data.caltech.edu/records/nyy15-4j048
    
-5. Aircraft–https://www.robots.ox.ac.uk/ vgg/data/fgvc-aircraft/
+5. Aircraft–https://www.robots.ox.ac.uk/~vgg/data/fgvc-aircraft/
   
 6. UCF-101–https://www.robots.ox.ac.uk/~vgg/decathlon/#download
     
