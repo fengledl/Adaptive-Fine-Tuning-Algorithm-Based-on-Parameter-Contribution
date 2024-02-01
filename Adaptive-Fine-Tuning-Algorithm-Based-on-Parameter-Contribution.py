@@ -26,7 +26,7 @@ import warnings
 temp = sys.stdout
 
 # Save the output to a file
-f = open('code1.log', 'w')
+f = open('code.log', 'w')
 
 # Then use the print function to print the content to a .log file
 sys.stdout = f
