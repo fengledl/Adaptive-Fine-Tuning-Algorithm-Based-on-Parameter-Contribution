@@ -22,7 +22,7 @@ import gc
 import warnings
 temp = sys.stdout
 
-f = open('outfile/code.log', 'w')
+f = open('code.log', 'w')
 
 sys.stdout = f
 warnings.filterwarnings("ignore")
