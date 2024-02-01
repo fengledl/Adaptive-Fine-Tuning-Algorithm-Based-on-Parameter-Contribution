@@ -24,7 +24,7 @@ import gc
 import warnings
 temp = sys.stdout
 
-f = open('outfile/code.log', 'w')
+f = open('code.log', 'w')
 
 sys.stdout = f
 warnings.filterwarnings("ignore")
@@ -102,7 +102,7 @@ data_name = ['indoor', 'stf_dog','aircraft', 'ucf101', 'omniglot','caltech256-30
 num_classes = [67, 120, 100, 101, 1623,256,256]
 
 ranks = [4,4,2,1,1,2,2]
-seed = 0
+seed = -1
 for iteration in range(10):
     seed+=1
     for data_index in [0,1,2,3,4,5,6]:
