@@ -285,7 +285,7 @@ class PSO:
 if __name__ == '__main__':
     low = 0
     up = 1
-    pso = PSO(49, 10, 8, low, up, -0.2, 0.2, w = (0.7, 1.4))
+    pso = PSO(49, 10, 15, low, up, -0.2, 0.2, w = (0.7, 1.4))
     #pso(Dimensions, number of individuals, number of iterations, The minimum value of the position, The maximum value of the location, The minimum value of the velocity, The maximum value of the velocity, The range of inertia weights)
     g_best = pso.pso()
 
