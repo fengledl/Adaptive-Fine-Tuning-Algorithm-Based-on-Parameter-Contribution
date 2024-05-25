@@ -15,6 +15,6 @@ The following information was supplied regarding data availability: The public d
     
 7. Omniglot–https://www.robots.ox.ac.uk/~vgg/decathlon/#download
 
-#The number of samples for the training and validation sets for each dataset is as follows
+#The number of samples for the training and test sets for each dataset is as follows
 ![image](https://github.com/fengledl/Adaptive-Fine-Tuning-Algorithm-Based-on-Parameter-Contribution/assets/152671236/0a44dace-913a-45d6-8930-a4511db8889c)
 
