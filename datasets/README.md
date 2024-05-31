@@ -17,6 +17,8 @@ The following information was supplied regarding data availability: The public d
 
 Each dataset needs to contain the training set "train" folder and the test set "val" folder.
 
+![pp20240531110629](https://github.com/fengledl/Adaptive-Fine-Tuning-Algorithm-Based-on-Parameter-Contribution/assets/152671236/42b0f17c-60d4-4059-b125-60c5ef533669)
+
 #The number of samples for the training and test sets for each dataset is as follows
 ![image](https://github.com/fengledl/Adaptive-Fine-Tuning-Algorithm-Based-on-Parameter-Contribution/assets/152671236/0a44dace-913a-45d6-8930-a4511db8889c)
 
