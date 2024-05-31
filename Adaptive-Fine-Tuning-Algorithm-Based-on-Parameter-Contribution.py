@@ -114,7 +114,7 @@ def evaluate_testset(models, criterion):
 
 data_name = ['indoor', 'stf_dog', 'aircraft', 'ucf101', 'omniglot','caltech256-30','caltech256-60']
 num_classes = [67, 120, 100, 101, 1623,256,256]
-data_index = 0
+data_index = 1
 print(data_name[data_index])
 
 seed=0
